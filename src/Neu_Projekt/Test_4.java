@@ -7,5 +7,6 @@ public class Test_4 {
         System.out.println(x * y - z);
         System.out.println(x * y * z);
         System.out.println(x * y + z);
+        System.out.println(x * y + z * z);
     }
 }
